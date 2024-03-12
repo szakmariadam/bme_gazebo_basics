@@ -139,4 +139,8 @@
     </visual>
   </link>
 
+    <gazebo reference="base_link">
+    <material>Gazebo/Green</material>
+  </gazebo>
+
 </robot>
